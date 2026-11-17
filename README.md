@@ -10,7 +10,7 @@ My work focuses on eliminating repetitive network operations, building infrastru
 
 - **Network Automation:** Python, Ansible, AWX, REST APIs, NetBox
 - **Cloud & Infrastructure:** Microsoft Azure, Linux, Docker
-- **Backend Engineering:** Python, Django, FastAPI, PostgreSQL, Redis, Celery
+- **Backend Engineering:** Python, Django, FastAPI, PostgreSQL, Redis, Celery, Supabase
 - **DevOps:** GitHub Actions, CI/CD, Git, automated testing
 - **Currently Exploring:** Infrastructure as Code, AI-assisted network operations, cloud networking
 
