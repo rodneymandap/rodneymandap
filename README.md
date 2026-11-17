@@ -1,36 +1,28 @@
 # Hi, I'm Rodney 👋
 
-### Network Automation Engineer | Software Engineer
+### Software Engineer | Automation & Backend Systems
 
-I build reliable automation solutions that connect network infrastructure, cloud services, and software engineering.
+I'm a Software Engineer focused on building reliable software systems, developing backend applications, and automating complex workflows.
 
-My work focuses on eliminating repetitive network operations, building infrastructure integrations, and developing maintainable backend systems.
+My experience spans software development, system integrations, network automation, and cloud infrastructure. I enjoy solving real-world problems through clean, maintainable code and efficient automation.
 
-### 🔧 What I Work With
+### 🛠️ Tech Stack
 
-- **Network Automation:** Python, Ansible, AWX, REST APIs, NetBox
+- **Languages:** Python, TypeScript, JavaScript, Bash
+- **Backend:** Django, FastAPI, REST APIs, PostgreSQL, Redis, Celery, Supabase
+- **Automation:** Ansible, AWX, Python Automation, NetBox
 - **Cloud & Infrastructure:** Microsoft Azure, Linux, Docker
-- **Backend Engineering:** Python, Django, FastAPI, PostgreSQL, Redis, Celery, Supabase
-- **DevOps:** GitHub Actions, CI/CD, Git, automated testing
-- **Currently Exploring:** Infrastructure as Code, AI-assisted network operations, cloud networking
+- **DevOps:** GitHub Actions, CI/CD, Git, Automated Testing
 
-### 🚀 What I'm Building
+### 🚀 Areas of Interest
 
-- Automation tools for network configuration and operations
-- API integrations for infrastructure management
-- Repeatable infrastructure workflows with automated validation
-- Backend services for network and cloud platforms
+- Software & Backend Engineering
+- Automation & Workflow Orchestration
+- System Integration & API Development
+- Network & Cloud Infrastructure Automation
+- DevOps & Infrastructure as Code
+- AI-Assisted Software Engineering
 
-### 🎯 Engineering Philosophy
+### 💡 Engineering Philosophy
 
-Automate repetitive work. Validate changes before deployment. Build reliable systems that are easy to maintain.
-
-### 📜 Certifications
-
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-
-### 📫 Connect
-
-- Portfolio: [Add your portfolio URL]
-- LinkedIn: [Add your LinkedIn URL]
+Build reliable systems. Automate repetitive work. Keep improving.
